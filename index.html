@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alex Papiernik - Profile</title>
+    <link rel="stylesheet" href="profileStyles.css" />
+    <!-- Icon Stylesheets -->
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <div class="profileCard">
+      <div class="profileHeader">
+        <img
+          src="https://pbs.twimg.com/profile_images/1949144388120023040/nDZT_zrD_400x400.jpg"
+          alt="Profile Picture"
+          class="profilePicture"
+        />
+        <h1>Alex Papiernik</h1>
+        <h4 class="jobTitle">
+          Baseball Analytics and Video Intern <br />
+          @ Coastal Carolina University
+        </h4>
+      </div>
+
+      <div class="links">
+        <a href="https://www.linkedin.com/in/alexpapiernik/" target="_blank">
+          <i
+            class="fa fa-linkedin-square"
+            style="font-size: 36px; color: white"
+          ></i
+        ></a>
+
+        <a href="mailto:apapiernik347@gmail.com" target="_blank">
+          <i class="material-icons" style="font-size: 36px; color: white"
+            >email</i
+          ></a
+        >
+      </div>
+
+      <div class="buttonDiv">
+        <div class="button" onClick="toggleAbout()">
+          <p class="buttonTitle">About Me</p>
+          <div class="aboutBox" id="aboutBox">
+            <p class="aboutText">
+              I am an Information Systems major, Sports Studies minor at Coastal
+              Carolina University. <br /><br>
+              I have been an Analytics Manager for CCU Baseball for 2.5
+              years.<br /><br>
+              My major and internship have helped me acquire proficiencies in
+              Excel, Python, PHP, SQL, Github and experience with R, JS and
+              C#.
+            </p>
+          </div>
+        </div>
+        <a
+          href="files/AlexanderPapiernik_Resume.pdf"
+          class="button"
+          target="_blank"
+        >
+          <p class="buttonTitle">Resume</p>
+          <i class="fa fa-file-pdf-o buttonIcon" style="font-size: 36px"></i>
+        </a>
+
+        <a href="" class="button" target="_blank">
+          <p class="buttonTitle">GitHub</p>
+          <i class="fa fa-github buttonIcon" style="font-size: 36px"></i>
+        </a>
+      </div>
+    </div>
+
+    <script>
+      function toggleAbout() {
+        const box = document.getElementById("aboutBox");
+        box.classList.toggle("open");
+      }
+    </script>
+  </body>
+</html>
