@@ -71,7 +71,7 @@ body {
 
 .buttonIcon {
   vertical-align: middle;
-  padding-bottom: 4px;
+  font-size: 36px;
 }
 
 
@@ -87,5 +87,16 @@ body {
 }
 
 .aboutBox.open {
+  max-height: 300px;
+}
+
+.projectsBox {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.25s ease;
+  border-top: none;
+}
+
+.projectsBox.open {
   max-height: 300px;
 }
