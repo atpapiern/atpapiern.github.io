@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stadium Finder - ballparks, stadiums and arenas near you</title>
+<meta name="description" content="Find college, MLB and minor league venues within driving distance and keep track of the ones you've visited.">
+
+<!-- Content-Security-Policy: only this site's own files can run, and the page can only contact Nominatim and OSRM -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src https://nominatim.openstreetmap.org https://router.project-osrm.org; base-uri 'none'; form-action 'none'; object-src 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+
+<!-- <link rel="icon" href="icon.svg" type="image/svg+xml"> -->
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="masthead-top">
+      <div class="brand">
+        <img src="icon.svg" alt="" width="36" height="36">
+        <h1>Stadium Finder</h1>
+      </div>
+      <button type="button" id="themeBtn" class="ghost">Dark mode</button>
+    </div>
+    <p class="tagline">College football, basketball and baseball, plus MLB and minor league ballparks, within driving distance of anywhere in the US.</p>
+
+    <form id="locForm" class="locform" autocomplete="off">
+      <label for="locInput" class="sr-only">City or town</label>
+      <input id="locInput" type="text" maxlength="100" placeholder="City or town, like Austin, TX" required>
+      <button type="submit" id="locBtn" class="primary">Find venues</button>
+      <button type="button" id="geoBtn" class="ghost">Use my location</button>
+    </form>
+    <p id="locStatus" class="status" role="status" aria-live="polite"></p>
+  </div>
+</header>
+
+<noscript><p class="wrap">This page needs JavaScript to look up drive times.</p></noscript>
+
+<div class="wrap layout" id="main">
+
+  <aside class="controls" aria-label="Filters">
+
+    <fieldset>
+      <legend>How far?</legend>
+      <div class="seg" role="radiogroup" aria-label="Distance unit">
+        <label><input type="radio" name="unit" value="miles" checked><span>Miles</span></label>
+        <label><input type="radio" name="unit" value="hours"><span>Hours</span></label>
+      </div>
+      <div class="limit">
+        <input id="limitRange" type="range" min="10" max="1000" step="10" value="150" aria-label="Maximum distance">
+        <label class="limit-num"><input id="limitNum" type="number" min="10" max="1000" step="10" value="150"><span id="limitUnit">miles</span></label>
+      </div>
+      <p class="hint">Driving distance and time from your starting point to each school's town.</p>
+    </fieldset>
+
+    <fieldset>
+      <legend>Sport and level</legend>
+      <div id="levelList" class="checks"></div>
+      <p class="hint" id="levelNote"></p>
+    </fieldset>
+
+    <fieldset>
+      <legend>Narrow it down</legend>
+      <label class="field">Search
+        <input id="qInput" type="search" maxlength="60" placeholder="Team, school, venue or town">
+      </label>
+      <label class="field">Conference
+        <select id="confSel"></select>
+      </label>
+      <label class="field">State
+        <select id="stateSel"></select>
+      </label>
+    </fieldset>
+
+    <fieldset>
+      <legend>Order</legend>
+      <div class="sortrow">
+        <label class="field grow">Sort by
+          <select id="sortSel">
+            <option value="time">Drive time</option>
+            <option value="distance">Distance</option>
+            <option value="school">Team or school name</option>
+            <option value="venue">Venue name</option>
+            <option value="conf">Conference</option>
+            <option value="state">State</option>
+          </select>
+        </label>
+        <button type="button" id="dirBtn" class="ghost" aria-label="Sort direction: ascending">A-Z</button>
+      </div>
+      <label class="check"><input type="checkbox" id="groupLevels"> <span>Group list by level</span></label>
+    </fieldset>
+
+    <fieldset>
+      <legend>My visits</legend>
+      <label class="check"><input type="checkbox" id="hideVisited"> <span>Hide venues I've been to</span></label>
+      <button type="button" id="visitedBtn" class="ghost wide">Manage my visited list</button>
+    </fieldset>
+
+    <button type="button" id="resetBtn" class="link">Reset filters</button>
+
+    <p class="privacy">
+      Your visited list and settings stay in this browser only. Searching sends the
+      place you type to OpenStreetMap's Nominatim, and a rounded starting point to the OSRM
+      routing server to get drive times. Nothing is sent to this site's owner.
+    </p>
+  </aside>
+
+  <main class="results" aria-live="polite">
+    <div id="summary" class="summary"></div>
+
+    <div class="toolbar">
+      <div class="tabs" role="tablist" aria-label="Result views">
+        <button type="button" role="tab" data-view="list" aria-selected="true">List</button>
+        <button type="button" role="tab" data-view="state" aria-selected="false">By state</button>
+        <button type="button" role="tab" data-view="radar" aria-selected="false">Radar</button>
+              </div>
+      <div class="actions">
+        <button type="button" id="pickBtn" class="ghost">Pick one for me</button>
+        <button type="button" id="exportFull" class="ghost">Export CSV</button>
+        <button type="button" id="exportState" class="ghost">Export by state</button>
+        <button type="button" id="copyLink" class="ghost">Copy link</button>
+      </div>
+    </div>
+
+    <section id="panel-list" role="tabpanel"></section>
+    <section id="panel-state" role="tabpanel" hidden></section>
+    <section id="panel-radar" role="tabpanel" hidden></section>
+  </main>
+</div>
+
+<footer class="wrap footer">
+  <p>
+    Drive times are city-to-city from
+    <a href="https://project-osrm.org/" rel="noopener noreferrer" target="_blank">OSRM</a>
+    and places are looked up with
+    <a href="https://nominatim.openstreetmap.org/" rel="noopener noreferrer" target="_blank">Nominatim</a>
+    (&copy; OpenStreetMap contributors). Map outlines are public-domain US Census and Natural Earth data. Teams, leagues and affiliations change often, so check
+    anything you plan around. *Basketball covers the major conferences and the Big East only.
+  </p>
+</footer>
+
+<dialog id="visitedDialog" aria-labelledby="visitedTitle">
+  <div class="dialog-body">
+    <div class="dialog-head">
+      <h2 id="visitedTitle">Venues I've been to</h2>
+      <button type="button" id="visitedClose" class="ghost">Close</button>
+    </div>
+    <p id="visitedProgress" class="hint"></p>
+
+    <label class="field">Add a venue
+      <input id="addSearch" type="search" maxlength="60" placeholder="Type a team, school, venue or town">
+    </label>
+    <ul id="addResults" class="mini"></ul>
+
+    <h3>My list</h3>
+    <ul id="visitedList" class="mini"></ul>
+
+    <div class="dialog-actions">
+      <button type="button" id="visitedExport" class="ghost">Download backup</button>
+      <label class="ghost filebtn">Restore backup<input type="file" id="visitedImport" accept="application/json,.json"></label>
+      <button type="button" id="visitedClear" class="danger">Clear list</button>
+      <button type="button" id="forgetAll" class="danger">Forget everything on this device</button>
+    </div>
+  </div>
+</dialog>
+
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="data.js"></script>
+<script src="map.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

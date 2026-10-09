@@ -1,0 +1,3 @@
+# Your geocode cache includes places you personally searched from. Keep it local.
+geocode_cache.json
+__pycache__/

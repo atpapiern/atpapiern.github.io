@@ -1,0 +1,31 @@
+team,city,state,division,ballpark
+Baltimore Orioles,Baltimore,MD,AL East,Oriole Park at Camden Yards
+Boston Red Sox,Boston,MA,AL East,Fenway Park
+New York Yankees,Bronx,NY,AL East,Yankee Stadium
+Tampa Bay Rays,St. Petersburg,FL,AL East,Tropicana Field
+Toronto Blue Jays,Toronto,ON,AL East,Rogers Centre
+Chicago White Sox,Chicago,IL,AL Central,Rate Field
+Cleveland Guardians,Cleveland,OH,AL Central,Progressive Field
+Detroit Tigers,Detroit,MI,AL Central,Comerica Park
+Kansas City Royals,Kansas City,MO,AL Central,Kauffman Stadium
+Minnesota Twins,Minneapolis,MN,AL Central,Target Field
+Athletics,West Sacramento,CA,AL West,Sutter Health Park
+Houston Astros,Houston,TX,AL West,Daikin Park
+Los Angeles Angels,Anaheim,CA,AL West,Angel Stadium
+Seattle Mariners,Seattle,WA,AL West,T-Mobile Park
+Texas Rangers,Arlington,TX,AL West,Globe Life Field
+Atlanta Braves,Atlanta,GA,NL East,Truist Park
+Miami Marlins,Miami,FL,NL East,loanDepot park
+New York Mets,Queens,NY,NL East,Citi Field
+Philadelphia Phillies,Philadelphia,PA,NL East,Citizens Bank Park
+Washington Nationals,Washington,DC,NL East,Nationals Park
+Chicago Cubs,Chicago,IL,NL Central,Wrigley Field
+Cincinnati Reds,Cincinnati,OH,NL Central,Great American Ball Park
+Milwaukee Brewers,Milwaukee,WI,NL Central,American Family Field
+Pittsburgh Pirates,Pittsburgh,PA,NL Central,PNC Park
+St. Louis Cardinals,St. Louis,MO,NL Central,Busch Stadium
+Arizona Diamondbacks,Phoenix,AZ,NL West,Chase Field
+Colorado Rockies,Denver,CO,NL West,Coors Field
+Los Angeles Dodgers,Los Angeles,CA,NL West,Dodger Stadium
+San Diego Padres,San Diego,CA,NL West,Petco Park
+San Francisco Giants,San Francisco,CA,NL West,Oracle Park

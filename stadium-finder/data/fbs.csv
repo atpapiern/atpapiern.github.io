@@ -1,0 +1,139 @@
+school,city,state,conference,stadium
+Boston College,Chestnut Hill,MA,ACC,Alumni Stadium
+Clemson,Clemson,SC,ACC,Memorial Stadium
+Duke,Durham,NC,ACC,Wallace Wade Stadium
+Florida State,Tallahassee,FL,ACC,Doak Campbell Stadium
+Georgia Tech,Atlanta,GA,ACC,Bobby Dodd Stadium
+Louisville,Louisville,KY,ACC,L&N Federal Credit Union Stadium
+Miami,Coral Gables,FL,ACC,Hard Rock Stadium
+NC State,Raleigh,NC,ACC,Carter-Finley Stadium
+North Carolina,Chapel Hill,NC,ACC,Kenan Memorial Stadium
+Pittsburgh,Pittsburgh,PA,ACC,Acrisure Stadium
+Syracuse,Syracuse,NY,ACC,JMA Wireless Dome
+Virginia,Charlottesville,VA,ACC,Scott Stadium
+Virginia Tech,Blacksburg,VA,ACC,Lane Stadium
+Wake Forest,Winston-Salem,NC,ACC,Allegacy Federal Credit Union Stadium
+California,Berkeley,CA,ACC,California Memorial Stadium
+SMU,Dallas,TX,ACC,Gerald J. Ford Stadium
+Stanford,Stanford,CA,ACC,Stanford Stadium
+Illinois,Champaign,IL,Big Ten,Memorial Stadium
+Indiana,Bloomington,IN,Big Ten,Memorial Stadium
+Iowa,Iowa City,IA,Big Ten,Kinnick Stadium
+Maryland,College Park,MD,Big Ten,SECU Stadium
+Michigan,Ann Arbor,MI,Big Ten,Michigan Stadium
+Michigan State,East Lansing,MI,Big Ten,Spartan Stadium
+Minnesota,Minneapolis,MN,Big Ten,Huntington Bank Stadium
+Nebraska,Lincoln,NE,Big Ten,Memorial Stadium
+Northwestern,Evanston,IL,Big Ten,Ryan Field
+Ohio State,Columbus,OH,Big Ten,Ohio Stadium
+Oregon,Eugene,OR,Big Ten,Autzen Stadium
+Penn State,University Park,PA,Big Ten,Beaver Stadium
+Purdue,West Lafayette,IN,Big Ten,Ross-Ade Stadium
+Rutgers,Piscataway,NJ,Big Ten,SHI Stadium
+UCLA,Los Angeles,CA,Big Ten,Rose Bowl
+USC,Los Angeles,CA,Big Ten,United Airlines Field at Los Angeles Memorial Coliseum
+Washington,Seattle,WA,Big Ten,Alaska Airlines Field at Husky Stadium
+Wisconsin,Madison,WI,Big Ten,Camp Randall Stadium
+Arizona,Tucson,AZ,Big 12,Arizona Stadium
+Arizona State,Tempe,AZ,Big 12,Mountain America Stadium
+Baylor,Waco,TX,Big 12,McLane Stadium
+BYU,Provo,UT,Big 12,LaVell Edwards Stadium
+Cincinnati,Cincinnati,OH,Big 12,Nippert Stadium
+Colorado,Boulder,CO,Big 12,Folsom Field
+Houston,Houston,TX,Big 12,TDECU Stadium
+Iowa State,Ames,IA,Big 12,Jack Trice Stadium
+Kansas,Lawrence,KS,Big 12,David Booth Kansas Memorial Stadium
+Kansas State,Manhattan,KS,Big 12,Bill Snyder Family Stadium
+Oklahoma State,Stillwater,OK,Big 12,Boone Pickens Stadium
+TCU,Fort Worth,TX,Big 12,Amon G. Carter Stadium
+Texas Tech,Lubbock,TX,Big 12,Jones AT&T Stadium
+UCF,Orlando,FL,Big 12,FBC Mortgage Stadium
+Utah,Salt Lake City,UT,Big 12,Rice-Eccles Stadium
+West Virginia,Morgantown,WV,Big 12,Milan Puskar Stadium
+Alabama,Tuscaloosa,AL,SEC,Bryant-Denny Stadium
+Arkansas,Fayetteville,AR,SEC,Donald W. Reynolds Razorback Stadium
+Auburn,Auburn,AL,SEC,Jordan-Hare Stadium
+Florida,Gainesville,FL,SEC,Ben Hill Griffin Stadium
+Georgia,Athens,GA,SEC,Sanford Stadium
+Kentucky,Lexington,KY,SEC,Kroger Field
+LSU,Baton Rouge,LA,SEC,Tiger Stadium
+Mississippi State,Starkville,MS,SEC,Davis Wade Stadium
+Missouri,Columbia,MO,SEC,Faurot Field
+Ole Miss,Oxford,MS,SEC,Vaught-Hemingway Stadium
+Oklahoma,Norman,OK,SEC,Gaylord Family Oklahoma Memorial Stadium
+South Carolina,Columbia,SC,SEC,Williams-Brice Stadium
+Tennessee,Knoxville,TN,SEC,Neyland Stadium
+Texas,Austin,TX,SEC,Darrell K Royal-Texas Memorial Stadium
+Texas A&M,College Station,TX,SEC,Kyle Field
+Vanderbilt,Nashville,TN,SEC,FirstBank Stadium
+Army,West Point,NY,American,Michie Stadium
+Charlotte,Charlotte,NC,American,Jerry Richardson Stadium
+East Carolina,Greenville,NC,American,Dowdy-Ficklen Stadium
+Florida Atlantic,Boca Raton,FL,American,FAU Stadium
+Memphis,Memphis,TN,American,Simmons Bank Liberty Stadium
+Navy,Annapolis,MD,American,Navy-Marine Corps Memorial Stadium
+North Texas,Denton,TX,American,DATCU Stadium
+Rice,Houston,TX,American,Rice Stadium
+South Florida,Tampa,FL,American,Raymond James Stadium
+Temple,Philadelphia,PA,American,Lincoln Financial Field
+Tulane,New Orleans,LA,American,Yulman Stadium
+Tulsa,Tulsa,OK,American,H.A. Chapman Stadium
+UAB,Birmingham,AL,American,Protective Stadium
+UTSA,San Antonio,TX,American,Alamodome
+Air Force,Colorado Springs,CO,Mountain West,Falcon Stadium
+Hawaii,Honolulu,HI,Mountain West,Clarence T.C. Ching Athletics Complex
+Nevada,Reno,NV,Mountain West,Mackay Stadium
+New Mexico,Albuquerque,NM,Mountain West,University Stadium
+North Dakota State,Fargo,ND,Mountain West,Fargodome
+San Jose State,San Jose,CA,Mountain West,CEFCU Stadium
+UNLV,Las Vegas,NV,Mountain West,Allegiant Stadium
+Wyoming,Laramie,WY,Mountain West,War Memorial Stadium
+Boise State,Boise,ID,Mountain West,Albertsons Stadium
+Colorado State,Fort Collins,CO,Mountain West,Sonny Lubick Field at Canvas Stadium
+Fresno State,Fresno,CA,Mountain West,Valley Children's Stadium
+San Diego State,San Diego,CA,Mountain West,Snapdragon Stadium
+Utah State,Logan,UT,Mountain West,Merlin Olsen Field at Maverik Stadium
+Oregon State,Corvallis,OR,Pac-12,Reser Stadium
+Washington State,Pullman,WA,Pac-12,Gesa Field at Martin Stadium
+Akron,Akron,OH,MAC,InfoCision Stadium
+Ball State,Muncie,IN,MAC,Scheumann Stadium
+Bowling Green,Bowling Green,OH,MAC,Doyt Perry Stadium
+Buffalo,Buffalo,NY,MAC,UB Stadium
+Central Michigan,Mount Pleasant,MI,MAC,Kelly/Shorts Stadium
+Eastern Michigan,Ypsilanti,MI,MAC,Rynearson Stadium
+Kent State,Kent,OH,MAC,Dix Stadium
+Miami (OH),Oxford,OH,MAC,Yager Stadium
+Northern Illinois,DeKalb,IL,MAC,Huskie Stadium
+Ohio,Athens,OH,MAC,Peden Stadium
+Sacramento State,Sacramento,CA,MAC,Hornet Stadium
+Toledo,Toledo,OH,MAC,Glass Bowl
+Western Michigan,Kalamazoo,MI,MAC,Waldo Stadium
+Delaware,Newark,DE,Conference USA,Delaware Stadium
+FIU,Miami,FL,Conference USA,Pitbull Stadium
+Jacksonville State,Jacksonville,AL,Conference USA,Burgess-Snow Field at JSU Stadium
+Kennesaw State,Kennesaw,GA,Conference USA,Fifth Third Bank Stadium
+Liberty,Lynchburg,VA,Conference USA,Williams Stadium
+Louisiana Tech,Ruston,LA,Conference USA,Joe Aillet Stadium
+Middle Tennessee,Murfreesboro,TN,Conference USA,Johnny "Red" Floyd Stadium
+Missouri State,Springfield,MO,Conference USA,Robert W. Plaster Stadium
+New Mexico State,Las Cruces,NM,Conference USA,Aggie Memorial Stadium
+Sam Houston,Huntsville,TX,Conference USA,Elliott T. Bowers Stadium
+UTEP,El Paso,TX,Conference USA,Sun Bowl
+Western Kentucky,Bowling Green,KY,Conference USA,L.T. Smith Stadium
+Appalachian State,Boone,NC,Sun Belt,Kidd Brewer Stadium
+Arkansas State,Jonesboro,AR,Sun Belt,Centennial Bank Stadium
+Coastal Carolina,Conway,SC,Sun Belt,Brooks Stadium
+Georgia Southern,Statesboro,GA,Sun Belt,Allen E. Paulson Stadium
+Georgia State,Atlanta,GA,Sun Belt,Center Parc Stadium
+James Madison,Harrisonburg,VA,Sun Belt,Bridgeforth Stadium
+Louisiana,Lafayette,LA,Sun Belt,Cajun Field
+Louisiana-Monroe,Monroe,LA,Sun Belt,Malone Stadium
+Marshall,Huntington,WV,Sun Belt,Joan C. Edwards Stadium
+Old Dominion,Norfolk,VA,Sun Belt,S.B. Ballard Stadium
+South Alabama,Mobile,AL,Sun Belt,Hancock Whitney Stadium
+Southern Miss,Hattiesburg,MS,Sun Belt,M.M. Roberts Stadium
+Texas State,San Marcos,TX,Sun Belt,UFCU Stadium
+Troy,Troy,AL,Sun Belt,Veterans Memorial Stadium
+Notre Dame,Notre Dame,IN,Independent,Notre Dame Stadium
+UConn,Storrs,CT,Independent,Rentschler Field
+UMass,Amherst,MA,Independent,McGuirk Alumni Stadium

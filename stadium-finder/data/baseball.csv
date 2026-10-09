@@ -1,0 +1,232 @@
+school,city,state,conference,venue
+Boston College,Chestnut Hill,MA,ACC,Harrington Athletics Village
+Clemson,Clemson,SC,ACC,Doug Kingsmore Stadium
+Duke,Durham,NC,ACC,Jack Coombs Field
+Florida State,Tallahassee,FL,ACC,Dick Howser Stadium
+Georgia Tech,Atlanta,GA,ACC,Russ Chandler Stadium
+Louisville,Louisville,KY,ACC,Jim Patterson Stadium
+Miami,Coral Gables,FL,ACC,Mark Light Field
+NC State,Raleigh,NC,ACC,Doak Field
+North Carolina,Chapel Hill,NC,ACC,Boshamer Stadium
+Notre Dame,Notre Dame,IN,ACC,Frank Eck Stadium
+Pittsburgh,Pittsburgh,PA,ACC,Charles L. Cost Field
+Virginia,Charlottesville,VA,ACC,Disharoon Park
+Virginia Tech,Blacksburg,VA,ACC,English Field
+Wake Forest,Winston-Salem,NC,ACC,David F. Couch Ballpark
+California,Berkeley,CA,ACC,Evans Diamond
+SMU,Dallas,TX,ACC,Dedman Family Baseball Stadium
+Stanford,Stanford,CA,ACC,Klein Field at Sunken Diamond
+Illinois,Champaign,IL,Big Ten,Illinois Field
+Indiana,Bloomington,IN,Big Ten,Bart Kaufman Field
+Iowa,Iowa City,IA,Big Ten,Duane Banks Field
+Maryland,College Park,MD,Big Ten,Bob "Turtle" Smith Stadium
+Michigan,Ann Arbor,MI,Big Ten,Ray Fisher Stadium
+Michigan State,East Lansing,MI,Big Ten,McLane Baseball Stadium
+Minnesota,Minneapolis,MN,Big Ten,Siebert Field
+Nebraska,Lincoln,NE,Big Ten,Charles Schwab Field Omaha
+Northwestern,Evanston,IL,Big Ten,Rocky and Berenice Miller Park
+Ohio State,Columbus,OH,Big Ten,Bill Davis Stadium
+Oregon,Eugene,OR,Big Ten,PK Park
+Penn State,University Park,PA,Big Ten,Medlar Field at Lubrano Park
+Purdue,West Lafayette,IN,Big Ten,Alexander Field
+Rutgers,Piscataway,NJ,Big Ten,Bainton Field
+UCLA,Los Angeles,CA,Big Ten,Jackie Robinson Stadium
+USC,Los Angeles,CA,Big Ten,Dedeaux Field
+Washington,Seattle,WA,Big Ten,Husky Ballpark
+Arizona,Tucson,AZ,Big 12,Hi Corbett Field
+Arizona State,Tempe,AZ,Big 12,Phoenix Municipal Stadium
+Baylor,Waco,TX,Big 12,Baylor Ballpark
+BYU,Provo,UT,Big 12,Larry H. Miller Field
+Cincinnati,Cincinnati,OH,Big 12,Marge Schott Stadium
+Houston,Houston,TX,Big 12,Darryl & Lori Schroeder Park
+Kansas,Lawrence,KS,Big 12,Hoglund Ballpark
+Kansas State,Manhattan,KS,Big 12,Tointon Family Stadium
+Oklahoma State,Stillwater,OK,Big 12,O'Brate Stadium
+TCU,Fort Worth,TX,Big 12,Lupton Stadium
+Texas Tech,Lubbock,TX,Big 12,Rip Griffin Park
+UCF,Orlando,FL,Big 12,John Euliano Park
+Utah,Salt Lake City,UT,Big 12,Smith's Ballpark
+West Virginia,Morgantown,WV,Big 12,Wagener Field at Monongalia County Ballpark
+Alabama,Tuscaloosa,AL,SEC,Sewell-Thomas Stadium
+Arkansas,Fayetteville,AR,SEC,Baum-Walker Stadium
+Auburn,Auburn,AL,SEC,Plainsman Park
+Florida,Gainesville,FL,SEC,Florida Ballpark
+Georgia,Athens,GA,SEC,Foley Field
+Kentucky,Lexington,KY,SEC,Kentucky Proud Park
+LSU,Baton Rouge,LA,SEC,Alex Box Stadium
+Mississippi State,Starkville,MS,SEC,Dudy Noble Field
+Missouri,Columbia,MO,SEC,Taylor Stadium
+Ole Miss,Oxford,MS,SEC,Swayze Field
+Oklahoma,Norman,OK,SEC,L. Dale Mitchell Park
+South Carolina,Columbia,SC,SEC,Founders Park
+Tennessee,Knoxville,TN,SEC,Lindsey Nelson Stadium
+Texas,Austin,TX,SEC,UFCU Disch-Falk Field
+Texas A&M,College Station,TX,SEC,Olsen Field at Blue Bell Park
+Vanderbilt,Nashville,TN,SEC,Hawkins Field
+Charlotte,Charlotte,NC,American,Robert and Mariam Hayes Stadium
+East Carolina,Greenville,NC,American,Clark-LeClair Stadium
+Florida Atlantic,Boca Raton,FL,American,FAU Baseball Stadium
+Memphis,Memphis,TN,American,FedExPark
+North Texas,Denton,TX,American,Historic Fouts Field / UNT Baseball Field
+Rice,Houston,TX,American,Reckling Park
+South Florida,Tampa,FL,American,USF Baseball Stadium
+Tulane,New Orleans,LA,American,Turchin Stadium
+UAB,Birmingham,AL,American,Regions Field
+UTSA,San Antonio,TX,American,Roadrunner Field
+Wichita State,Wichita,KS,American,Eck Stadium
+East Tennessee State,Johnson City,TN,SoCon,Thomas Stadium
+Nevada,Reno,NV,Mountain West,Chandler Field
+New Mexico,Albuquerque,NM,Mountain West,Santa Ana Star Field
+San Jose State,San Jose,CA,Mountain West,Blethen Field
+UNLV,Las Vegas,NV,Mountain West,Earl E. Wilson Stadium
+Fresno State,Fresno,CA,Mountain West,Beiden Field
+San Diego State,San Diego,CA,Mountain West,Tony Gwynn Stadium
+Oregon State,Corvallis,OR,Pac-12,Goss Stadium at Coleman Field
+Washington State,Pullman,WA,Pac-12,Bailey-Brayton Field
+Ball State,Muncie,IN,MAC,Ball Diamond
+Central Michigan,Mount Pleasant,MI,MAC,Theunissen Stadium
+Kent State,Kent,OH,MAC,Schoonover Stadium
+Ohio,Athens,OH,MAC,Bob Wren Stadium
+Toledo,Toledo,OH,MAC,Scott Park
+Western Michigan,Kalamazoo,MI,MAC,Robert J. Bobb Stadium
+FIU,Miami,FL,Conference USA,FIU Baseball Stadium
+Jacksonville State,Jacksonville,AL,Conference USA,Rudy Abbott Field
+Liberty,Lynchburg,VA,Conference USA,Liberty Baseball Stadium
+Louisiana Tech,Ruston,LA,Conference USA,J.C. Love Field
+Middle Tennessee,Murfreesboro,TN,Conference USA,Reese Smith Jr. Field
+New Mexico State,Las Cruces,NM,Conference USA,Presley Askew Field
+Sam Houston,Huntsville,TX,Conference USA,Don Sanders Stadium
+UTEP,El Paso,TX,Conference USA,Cohen Stadium
+Western Kentucky,Bowling Green,KY,Conference USA,Nick Denes Field
+Appalachian State,Boone,NC,Sun Belt,Beaver Field at Jim & Bettie Smith Stadium
+Arkansas State,Jonesboro,AR,Sun Belt,Tomlinson Stadium
+Coastal Carolina,Conway,SC,Sun Belt,Springs Brooks Stadium
+Georgia Southern,Statesboro,GA,Sun Belt,J.I. Clements Stadium
+Georgia State,Atlanta,GA,Sun Belt,GSU Baseball Complex
+James Madison,Harrisonburg,VA,Sun Belt,Eagle Field
+Louisiana,Lafayette,LA,Sun Belt,M.L. "Tigue" Moore Field
+Louisiana-Monroe,Monroe,LA,Sun Belt,Warhawk Field
+Marshall,Huntington,WV,Sun Belt,YMCA Kennedy Center Field
+Old Dominion,Norfolk,VA,Sun Belt,Bud Metheny Baseball Complex
+South Alabama,Mobile,AL,Sun Belt,Stanky Field
+Southern Miss,Hattiesburg,MS,Sun Belt,Pete Taylor Park
+Texas State,San Marcos,TX,Sun Belt,Bobcat Ballpark
+Troy,Troy,AL,Sun Belt,Riddle-Pace Field
+UConn,Storrs,CT,Big East,Elliot Ballpark
+Butler,Indianapolis,IN,Big East,Bulldog Park
+Creighton,Omaha,NE,Big East,Charles Schwab Field Omaha
+Georgetown,Washington,DC,Big East,Shirley Povich Field
+Providence,Providence,RI,Big East,Amgen Field at Days Park
+Seton Hall,South Orange,NJ,Big East,Owen T. Carroll Field
+St. John's,Queens,NY,Big East,Jack Kaiser Stadium
+Villanova,Villanova,PA,Big East,Plumeri Park
+Xavier,Cincinnati,OH,Big East,Hayden Field
+Davidson,Davidson,NC,Atlantic 10,Wilson Field
+Dayton,Dayton,OH,Atlantic 10,Woerner Field
+Fordham,Bronx,NY,Atlantic 10,Houlihan Park
+George Mason,Fairfax,VA,Atlantic 10,Spuhler Field
+Rhode Island,Kingston,RI,Atlantic 10,Bill Beck Field
+Richmond,Richmond,VA,Atlantic 10,Pitt Field
+Saint Joseph's,Philadelphia,PA,Atlantic 10,Townsend Family Baseball Complex
+St. Bonaventure,St. Bonaventure,NY,Atlantic 10,Fred Handler Park
+UMass,Amherst,MA,Atlantic 10,Earl Lorden Field
+VCU,Richmond,VA,Atlantic 10,The Diamond
+Gonzaga,Spokane,WA,WCC,Patterson Baseball Complex
+Loyola Marymount,Los Angeles,CA,WCC,George C. Page Stadium
+Pepperdine,Malibu,CA,WCC,Eddy D. Field Stadium
+Portland,Portland,OR,WCC,Joe Etzel Field
+Saint Mary's,Moraga,CA,WCC,Louis Guisto Field
+San Diego,San Diego,CA,WCC,Cunningham Stadium
+San Francisco,San Francisco,CA,WCC,Benedetti Diamond
+Santa Clara,Santa Clara,CA,WCC,Stephen Schott Stadium
+Cal Poly,San Luis Obispo,CA,Big West,Baggett Stadium
+Cal State Fullerton,Fullerton,CA,Big West,Goodwin Field
+UC Davis,Davis,CA,Big West,Phil Swimley Field at Dobbins Stadium
+UC Irvine,Irvine,CA,Big West,Anteater Ballpark
+UC Riverside,Riverside,CA,Big West,Riverside Sports Complex
+UC San Diego,San Diego,CA,Big West,Triton Ballpark
+UC Santa Barbara,Santa Barbara,CA,Big West,Caesar Uyesaka Stadium
+Hawaii,Honolulu,HI,Big West,Les Murakami Stadium
+Long Beach State,Long Beach,CA,Big West,Blair Field
+Belmont,Nashville,TN,MVC,E.S. Rose Park
+Bradley,Peoria,IL,MVC,Dozer Park
+Evansville,Evansville,IN,MVC,Charles H. Braun Stadium
+Illinois State,Normal,IL,MVC,Duffy Bass Field
+Indiana State,Terre Haute,IN,MVC,Bob Warn Field
+Murray State,Murray,KY,MVC,Reagan Field
+Northern Iowa,Cedar Falls,IA,MVC,Nielsen Field
+Southern Illinois,Carbondale,IL,MVC,Itchy Jones Stadium
+UIC,Chicago,IL,MVC,Curtis Granderson Stadium
+Valparaiso,Valparaiso,IN,MVC,Emory G. Bauer Field
+Eastern Illinois,Charleston,IL,OVC,Coaches Stadium
+Morehead State,Morehead,KY,OVC,Allen Field
+SIU Edwardsville,Edwardsville,IL,OVC,Roy E. Lee Field
+Southeast Missouri State,Cape Girardeau,MO,OVC,Capaha Field
+Tennessee State,Nashville,TN,OVC,Wallace Field
+Tennessee Tech,Cookeville,TN,OVC,Bush Stadium
+UT Martin,Martin,TN,OVC,Skyhawk Field
+Western Illinois,Macomb,IL,OVC,Alfred D. Boyer Stadium
+Central Arkansas,Conway,AR,ASUN,Bear Stadium
+Eastern Kentucky,Richmond,KY,ASUN,Turkey Hughes Field
+Jacksonville,Jacksonville,FL,ASUN,John Sessions Stadium
+Kennesaw State,Kennesaw,GA,ASUN,Stillwell Stadium
+Lipscomb,Nashville,TN,ASUN,Dugan Field
+North Alabama,Florence,AL,ASUN,Mike Lane Field
+North Florida,Jacksonville,FL,ASUN,UNF Baseball Complex
+Stetson,DeLand,FL,ASUN,Melching Field at Conrad Park
+Bellarmine,Louisville,KY,ASUN,Cardinal Park
+Queens,Charlotte,NC,ASUN,Queens Baseball Complex
+Bryant,Smithfield,RI,America East,Conaty Park
+Maine,Orono,ME,America East,Mahaney Diamond
+NJIT,Newark,NJ,America East,Riverfront Stadium
+UMass Lowell,Lowell,MA,America East,LeLacheur Park
+UMBC,Baltimore,MD,America East,UMBC Baseball Stadium
+Binghamton,Binghamton,NY,America East,Bearcats Sports Complex
+Central Connecticut,New Britain,CT,NEC,Willow Brook Park
+LIU,Brookville,NY,NEC,LIU Baseball Field
+Sacred Heart,Fairfield,CT,NEC,Jack McDermott Stadium
+Wagner,Staten Island,NY,NEC,Richmond County Bank Ballpark
+Le Moyne,Syracuse,NY,NEC,Aleo Field at Le Moyne College
+Chicago State,Chicago,IL,Horizon,Grover Bell Stadium
+Northern Kentucky,Highland Heights,KY,Horizon,Bill Aker Baseball Complex
+Wright State,Dayton,OH,Horizon,Nischwitz Stadium
+Youngstown State,Youngstown,OH,Horizon,Eastwood Field
+Oral Roberts,Tulsa,OK,Summit,J.L. Johnson Stadium
+North Dakota State,Fargo,ND,Summit,Newman Outdoor Field
+South Dakota State,Brookings,SD,Summit,Erv Huether Field
+North Dakota,Grand Forks,ND,Summit,Kraft Field
+Omaha,Omaha,NE,Summit,Tal Anderson Field
+Western Illinois,Macomb,IL,Summit,Alfred D. Boyer Stadium
+Alabama A&M,Huntsville,AL,SWAC,Joe Yeager Stadium
+Alabama State,Montgomery,AL,SWAC,Bell Field
+Alcorn State,Lorman,MS,SWAC,Alcorn Baseball Complex
+Arkansas-Pine Bluff,Pine Bluff,AR,SWAC,Torii Hunter Baseball Complex
+Florida A&M,Tallahassee,FL,SWAC,Moore-Kittles Field
+Grambling State,Grambling,LA,SWAC,R.W.E. Jones Stadium
+Jackson State,Jackson,MS,SWAC,Braddy Field
+Prairie View A&M,Prairie View,TX,SWAC,Cavness Field
+Southern University,Baton Rouge,LA,SWAC,Lee-Hines Field
+Texas Southern,Houston,TX,SWAC,MacGregor Park
+Bethune-Cookman,Daytona Beach,FL,MEAC,Jackie Robinson Ballpark
+Coppin State,Baltimore,MD,MEAC,Joe Cannon Stadium
+Delaware State,Dover,DE,MEAC,Randolph "Bubbie" Johnson Field
+Howard,Washington,DC,MEAC,Kelly Miller Field
+Maryland-Eastern Shore,Princess Anne,MD,MEAC,Henry Way Field
+Morgan State,Baltimore,MD,MEAC,Fitzgerald Field
+Norfolk State,Norfolk,VA,MEAC,Marty L. Miller Field
+South Carolina State,Orangeburg,SC,MEAC,Kirkland Stanback Stadium
+Army,West Point,NY,Patriot,Doubleday Field
+Bucknell,Lewisburg,PA,Patriot,Depew Field
+Colgate,Hamilton,NY,Patriot,Dick Astle Field
+Holy Cross,Worcester,MA,Patriot,Fitton Field
+Lafayette,Easton,PA,Patriot,Kamine Stadium
+Lehigh,Bethlehem,PA,Patriot,J. David Walker Field
+Navy,Annapolis,MD,Patriot,Terwilliger Brothers Field at Max Bishop Stadium
+Brown,Providence,RI,Ivy League,Murray Stadium
+Columbia,New York,NY,Ivy League,Robertson Field at Satow Stadium
+Cornell,Ithaca,NY,Ivy League,Hoy Field
+Dartmouth,Hanover,NH,Ivy League,Biondi Park
+Harvard,Cambridge,MA,Ivy League,O'Donnell Field
+Penn,Philadelphia,PA,Ivy League,Meiklejohn Stadium
+Princeton,Princeton,NJ,Ivy League,Clarke Field
+Yale,New Haven,CT,Ivy League,Yale Field

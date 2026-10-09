@@ -1,0 +1,451 @@
+{
+ "_note": "Hand-entered approximate city-center coordinates for cities missing from geocode_cache.json. Replace with real geocoded values if you like; keys are 'city, st, usa' in lowercase.",
+ "wichita, ks, usa": [
+  37.6872,
+  -97.3301
+ ],
+ "omaha, ne, usa": [
+  41.2565,
+  -95.9345
+ ],
+ "south orange, nj, usa": [
+  40.749,
+  -74.2613
+ ],
+ "queens, ny, usa": [
+  40.7282,
+  -73.7949
+ ],
+ "fairfax, va, usa": [
+  38.8462,
+  -77.3064
+ ],
+ "st. bonaventure, ny, usa": [
+  42.0797,
+  -78.4773
+ ],
+ "spokane, wa, usa": [
+  47.6588,
+  -117.426
+ ],
+ "malibu, ca, usa": [
+  34.0259,
+  -118.7798
+ ],
+ "moraga, ca, usa": [
+  37.8349,
+  -122.1297
+ ],
+ "san francisco, ca, usa": [
+  37.7749,
+  -122.4194
+ ],
+ "santa clara, ca, usa": [
+  37.3541,
+  -121.9552
+ ],
+ "fullerton, ca, usa": [
+  33.8704,
+  -117.9243
+ ],
+ "irvine, ca, usa": [
+  33.6846,
+  -117.8265
+ ],
+ "riverside, ca, usa": [
+  33.9533,
+  -117.3962
+ ],
+ "santa barbara, ca, usa": [
+  34.4208,
+  -119.6982
+ ],
+ "long beach, ca, usa": [
+  33.7701,
+  -118.1937
+ ],
+ "peoria, il, usa": [
+  40.6936,
+  -89.589
+ ],
+ "evansville, in, usa": [
+  37.9716,
+  -87.5711
+ ],
+ "chicago, il, usa": [
+  41.8781,
+  -87.6298
+ ],
+ "edwardsville, il, usa": [
+  38.8114,
+  -89.9532
+ ],
+ "jacksonville, fl, usa": [
+  30.3322,
+  -81.6557
+ ],
+ "smithfield, ri, usa": [
+  41.922,
+  -71.549
+ ],
+ "newark, nj, usa": [
+  40.7357,
+  -74.1724
+ ],
+ "lowell, ma, usa": [
+  42.6334,
+  -71.3162
+ ],
+ "binghamton, ny, usa": [
+  42.0987,
+  -75.918
+ ],
+ "highland heights, ky, usa": [
+  39.0334,
+  -84.4519
+ ],
+ "princess anne, md, usa": [
+  38.2026,
+  -75.6927
+ ],
+ "milwaukee, wi, usa": [
+  43.0389,
+  -87.9065
+ ],
+ "allentown, pa, usa": [
+  40.6084,
+  -75.4902
+ ],
+ "altoona, pa, usa": [
+  40.5187,
+  -78.3947
+ ],
+ "amarillo, tx, usa": [
+  35.222,
+  -101.8313
+ ],
+ "anaheim, ca, usa": [
+  33.8366,
+  -117.9143
+ ],
+ "appleton, wi, usa": [
+  44.2619,
+  -88.4154
+ ],
+ "arlington, tx, usa": [
+  32.7357,
+  -97.1081
+ ],
+ "asheville, nc, usa": [
+  35.5951,
+  -82.5515
+ ],
+ "beloit, wi, usa": [
+  42.5083,
+  -89.0318
+ ],
+ "biloxi, ms, usa": [
+  30.396,
+  -88.8853
+ ],
+ "boston, ma, usa": [
+  42.3601,
+  -71.0589
+ ],
+ "bowie, md, usa": [
+  39.0068,
+  -76.7791
+ ],
+ "bradenton, fl, usa": [
+  27.4989,
+  -82.5748
+ ],
+ "bridgewater, nj, usa": [
+  40.594,
+  -74.6049
+ ],
+ "brooklyn, ny, usa": [
+  40.6782,
+  -73.9442
+ ],
+ "cedar rapids, ia, usa": [
+  41.9779,
+  -91.6656
+ ],
+ "clearwater, fl, usa": [
+  27.9659,
+  -82.8001
+ ],
+ "cleveland, oh, usa": [
+  41.4993,
+  -81.6944
+ ],
+ "columbus, ga, usa": [
+  32.461,
+  -84.9877
+ ],
+ "comstock park, mi, usa": [
+  43.0436,
+  -85.6781
+ ],
+ "corpus christi, tx, usa": [
+  27.8006,
+  -97.3964
+ ],
+ "davenport, ia, usa": [
+  41.5236,
+  -90.5776
+ ],
+ "denver, co, usa": [
+  39.7392,
+  -104.9903
+ ],
+ "detroit, mi, usa": [
+  42.3314,
+  -83.0458
+ ],
+ "dunedin, fl, usa": [
+  28.0197,
+  -82.7718
+ ],
+ "eastlake, oh, usa": [
+  41.6539,
+  -81.4504
+ ],
+ "erie, pa, usa": [
+  42.1292,
+  -80.0851
+ ],
+ "everett, wa, usa": [
+  47.979,
+  -122.2021
+ ],
+ "fayetteville, nc, usa": [
+  35.0527,
+  -78.8784
+ ],
+ "fishkill, ny, usa": [
+  41.5354,
+  -73.899
+ ],
+ "fort myers, fl, usa": [
+  26.6406,
+  -81.8723
+ ],
+ "fort wayne, in, usa": [
+  41.0793,
+  -85.1394
+ ],
+ "frederick, md, usa": [
+  39.4143,
+  -77.4105
+ ],
+ "fredericksburg, va, usa": [
+  38.3032,
+  -77.4605
+ ],
+ "frisco, tx, usa": [
+  33.1507,
+  -96.8236
+ ],
+ "harrisburg, pa, usa": [
+  40.2732,
+  -76.8867
+ ],
+ "hartford, ct, usa": [
+  41.7658,
+  -72.6734
+ ],
+ "hickory, nc, usa": [
+  35.7344,
+  -81.3412
+ ],
+ "hillsboro, or, usa": [
+  45.5229,
+  -122.9898
+ ],
+ "jupiter, fl, usa": [
+  26.9342,
+  -80.0942
+ ],
+ "kannapolis, nc, usa": [
+  35.4874,
+  -80.6217
+ ],
+ "kansas city, mo, usa": [
+  39.0997,
+  -94.5786
+ ],
+ "lake elsinore, ca, usa": [
+  33.6681,
+  -117.3273
+ ],
+ "lakeland, fl, usa": [
+  28.0395,
+  -81.9498
+ ],
+ "lakewood, nj, usa": [
+  40.0979,
+  -74.2176
+ ],
+ "lansing, mi, usa": [
+  42.7325,
+  -84.5555
+ ],
+ "lawrenceville, ga, usa": [
+  33.9562,
+  -83.988
+ ],
+ "madison, al, usa": [
+  34.6993,
+  -86.7483
+ ],
+ "manchester, nh, usa": [
+  42.9956,
+  -71.4548
+ ],
+ "midland, mi, usa": [
+  43.6156,
+  -84.2472
+ ],
+ "midland, tx, usa": [
+  31.9973,
+  -102.0779
+ ],
+ "modesto, ca, usa": [
+  37.6391,
+  -120.9969
+ ],
+ "moosic, pa, usa": [
+  41.3567,
+  -75.7324
+ ],
+ "myrtle beach, sc, usa": [
+  33.6891,
+  -78.8867
+ ],
+ "north augusta, sc, usa": [
+  33.5018,
+  -81.9651
+ ],
+ "north little rock, ar, usa": [
+  34.7695,
+  -92.2671
+ ],
+ "oklahoma city, ok, usa": [
+  35.4676,
+  -97.5164
+ ],
+ "papillion, ne, usa": [
+  41.1544,
+  -96.042
+ ],
+ "pasco, wa, usa": [
+  46.2396,
+  -119.1006
+ ],
+ "pensacola, fl, usa": [
+  30.4213,
+  -87.2169
+ ],
+ "phoenix, az, usa": [
+  33.4484,
+  -112.074
+ ],
+ "port st. lucie, fl, usa": [
+  27.273,
+  -80.3582
+ ],
+ "portland, me, usa": [
+  43.6591,
+  -70.2568
+ ],
+ "rancho cucamonga, ca, usa": [
+  34.1064,
+  -117.5931
+ ],
+ "reading, pa, usa": [
+  40.3356,
+  -75.9269
+ ],
+ "rochester, ny, usa": [
+  43.1566,
+  -77.6088
+ ],
+ "rome, ga, usa": [
+  34.257,
+  -85.1647
+ ],
+ "round rock, tx, usa": [
+  30.5083,
+  -97.6789
+ ],
+ "salem, va, usa": [
+  37.2935,
+  -80.0548
+ ],
+ "salisbury, md, usa": [
+  38.3607,
+  -75.5994
+ ],
+ "san bernardino, ca, usa": [
+  34.1083,
+  -117.2898
+ ],
+ "south bend, in, usa": [
+  41.6764,
+  -86.252
+ ],
+ "south jordan, ut, usa": [
+  40.5622,
+  -111.9297
+ ],
+ "springdale, ar, usa": [
+  36.1867,
+  -94.1288
+ ],
+ "st. louis, mo, usa": [
+  38.627,
+  -90.1994
+ ],
+ "st. petersburg, fl, usa": [
+  27.7676,
+  -82.6403
+ ],
+ "stockton, ca, usa": [
+  37.9577,
+  -121.2908
+ ],
+ "sugar land, tx, usa": [
+  29.5994,
+  -95.6141
+ ],
+ "tacoma, wa, usa": [
+  47.2529,
+  -122.4443
+ ],
+ "toronto, on, usa": [
+  43.6532,
+  -79.3832
+ ],
+ "vancouver, bc, usa": [
+  49.2827,
+  -123.1207
+ ],
+ "visalia, ca, usa": [
+  36.3302,
+  -119.2921
+ ],
+ "west sacramento, ca, usa": [
+  38.5805,
+  -121.5302
+ ],
+ "wilmington, de, usa": [
+  39.7391,
+  -75.5398
+ ],
+ "wilson, nc, usa": [
+  35.7212,
+  -77.9155
+ ]
+}

@@ -1,0 +1,122 @@
+school,city,state,conference,stadium
+Cal Poly,San Luis Obispo,CA,Big Sky,Alex G. Spanos Stadium
+Eastern Washington,Cheney,WA,Big Sky,Roos Field
+Idaho,Moscow,ID,Big Sky,P1FCU Kibbie Dome
+Idaho State,Pocatello,ID,Big Sky,Holt Arena
+Montana,Missoula,MT,Big Sky,Washington-Grizzly Stadium
+Montana State,Bozeman,MT,Big Sky,Bobcat Stadium
+Northern Arizona,Flagstaff,AZ,Big Sky,Walkup Skydome
+Northern Colorado,Greeley,CO,Big Sky,Nottingham Field
+Portland State,Portland,OR,Big Sky,Hillsboro Stadium
+UC Davis,Davis,CA,Big Sky,UC Davis Health Stadium
+Weber State,Ogden,UT,Big Sky,Stewart Stadium
+Charleston Southern,Charleston,SC,Big South-OVC,Buccaneer Field
+Gardner-Webb,Boiling Springs,NC,Big South-OVC,Wilson Field
+North Alabama,Florence,AL,Big South-OVC,Braly Municipal Stadium
+Robert Morris,Moon Township,PA,Big South-OVC,UPMC Events Center
+UT Martin,Martin,TN,Big South-OVC,Hardy M. Graham Stadium
+Eastern Illinois,Charleston,IL,Big South-OVC,O'Brien Field
+Southeast Missouri State,Cape Girardeau,MO,Big South-OVC,Houck Stadium
+Tennessee State,Nashville,TN,Big South-OVC,Hale Stadium
+Tennessee Tech,Cookeville,TN,Big South-OVC,Tucker Stadium
+Lindenwood,St. Charles,MO,Big South-OVC,Hunter Stadium
+Albany,Albany,NY,CAA,Casey Stadium
+Campbell,Buies Creek,NC,CAA,Barker-Lane Stadium
+Elon,Elon,NC,CAA,Rhodes Stadium
+Hampton,Hampton,VA,CAA,Armstrong Stadium
+Maine,Orono,ME,CAA,Alfond Stadium
+Monmouth,West Long Branch,NJ,CAA,Kessler Stadium
+New Hampshire,Durham,NH,CAA,Wildcat Stadium
+North Carolina A&T,Greensboro,NC,CAA,Aggie Stadium
+Rhode Island,Kingston,RI,CAA,Meade Stadium
+Richmond,Richmond,VA,CAA,Robins Stadium
+Stony Brook,Stony Brook,NY,CAA,LaValle Stadium
+Towson,Towson,MD,CAA,Johnny Unitas Stadium
+Villanova,Villanova,PA,CAA,Villanova Stadium
+William & Mary,Williamsburg,VA,CAA,Zable Stadium
+Brown,Providence,RI,Ivy League,Brown Stadium
+Columbia,New York,NY,Ivy League,Robert K. Kraft Field at Lawrence A. Wien Stadium
+Cornell,Ithaca,NY,Ivy League,Schoellkopf Field
+Dartmouth,Hanover,NH,Ivy League,Memorial Field
+Harvard,Cambridge,MA,Ivy League,Harvard Stadium
+Penn,Philadelphia,PA,Ivy League,Franklin Field
+Princeton,Princeton,NJ,Ivy League,Princeton Stadium
+Yale,New Haven,CT,Ivy League,Yale Bowl
+Delaware State,Dover,DE,MEAC,Alumni Stadium
+Howard,Washington,DC,MEAC,William H. Greene Stadium
+Morgan State,Baltimore,MD,MEAC,Hughes Stadium
+Norfolk State,Norfolk,VA,MEAC,Dick Price Stadium
+North Carolina Central,Durham,NC,MEAC,O'Kelly-Riddick Stadium
+South Carolina State,Orangeburg,SC,MEAC,Oliver C. Dawson Stadium
+Illinois State,Normal,IL,MVFC,Hancock Stadium
+Indiana State,Terre Haute,IN,MVFC,Memorial Stadium
+Murray State,Murray,KY,MVFC,Roy Stewart Stadium
+North Dakota,Grand Forks,ND,MVFC,Alerus Center
+Northern Iowa,Cedar Falls,IA,MVFC,UNI-Dome
+South Dakota,Vermillion,SD,MVFC,DakotaDome
+South Dakota State,Brookings,SD,MVFC,Dana J. Dykhouse Stadium
+Southern Illinois,Carbondale,IL,MVFC,Saluki Stadium
+Youngstown State,Youngstown,OH,MVFC,Stambaugh Stadium
+Western Illinois,Macomb,IL,MVFC,Hanson Field
+Central Connecticut,New Britain,CT,NEC,Arute Field
+Duquesne,Pittsburgh,PA,NEC,Rooney Field
+LIU,Brookville,NY,NEC,Bethpage Federal Credit Union Stadium
+Sacred Heart,Fairfield,CT,NEC,Campus Field
+Stonehill,Easton,MA,NEC,Neary Field
+Wagner,Staten Island,NY,NEC,Center for Athletic Excellence Field
+Saint Francis,Loretto,PA,NEC,DeGol Field
+Bucknell,Lewisburg,PA,Patriot League,Christy Mathewson-Memorial Stadium
+Colgate,Hamilton,NY,Patriot League,Andy Kerr Stadium
+Fordham,Bronx,NY,Patriot League,Coffey Field
+Georgetown,Washington,DC,Patriot League,Cooper Field
+Holy Cross,Worcester,MA,Patriot League,Fitton Field
+Lafayette,Easton,PA,Patriot League,Fisher Stadium
+Lehigh,Bethlehem,PA,Patriot League,Goodman Stadium
+Butler,Indianapolis,IN,Pioneer League,Historic Butler Bowl
+Davidson,Davidson,NC,Pioneer League,Richardson Stadium
+Dayton,Dayton,OH,Pioneer League,Welcome Stadium
+Drake,Des Moines,IA,Pioneer League,Drake Stadium
+Marist,Poughkeepsie,NY,Pioneer League,Tenney Stadium
+Morehead State,Morehead,KY,Pioneer League,Jayne Stadium
+Presbyterian,Clinton,SC,Pioneer League,Bailey Memorial Stadium
+Saint Thomas,St. Paul,MN,Pioneer League,O'Shaughnessy Stadium
+San Diego,San Diego,CA,Pioneer League,Torero Stadium
+Stetson,DeLand,FL,Pioneer League,Spec Martin Stadium
+Valparaiso,Valparaiso,IN,Pioneer League,Brown Field
+Chattanooga,Chattanooga,TN,SoCon,Finley Stadium
+Citadel,Charleston,SC,SoCon,Johnson Hagood Stadium
+East Tennessee State,Johnson City,TN,SoCon,William B. Greene Jr. Stadium
+Furman,Greenville,SC,SoCon,Paladin Stadium
+Mercer,Macon,GA,SoCon,Five Star Stadium
+Samford,Homewood,AL,SoCon,Caylor Stadium
+VMI,Lexington,VA,SoCon,Alumni Memorial Field
+Western Carolina,Cullowhee,NC,SoCon,E.J. Whitmire Stadium
+Wofford,Spartanburg,SC,SoCon,Gibbs Stadium
+Houston Christian,Houston,TX,Southland,Husky Stadium
+Incarnate Word,San Antonio,TX,Southland,Gayle & Tom Benson Stadium
+Lamar,Beaumont,TX,Southland,Provost Umphrey Stadium
+McNeese,Lake Charles,LA,Southland,Cowboy Stadium
+Nicholls,Thibodaux,LA,Southland,Guidry Stadium
+Northwestern State,Natchitoches,LA,Southland,Turpin Stadium
+Southeastern Louisiana,Hammond,LA,Southland,Strawberry Stadium
+Texas A&M-Commerce,Commerce,TX,Southland,Memorial Stadium
+Alabama A&M,Huntsville,AL,SWAC,Louis Crews Stadium
+Alabama State,Montgomery,AL,SWAC,ASU Stadium
+Alcorn State,Lorman,MS,SWAC,Jack Spinks-Marino Casem Stadium
+Arkansas-Pine Bluff,Pine Bluff,AR,SWAC,Simmons Bank Field
+Bethune-Cookman,Daytona Beach,FL,SWAC,Daytona Stadium
+Florida A&M,Tallahassee,FL,SWAC,Bragg Memorial Stadium
+Grambling State,Grambling,LA,SWAC,Eddie G. Robinson Memorial Stadium
+Jackson State,Jackson,MS,SWAC,Mississippi Veterans Memorial Stadium
+Mississippi Valley State,Itta Bena,MS,SWAC,Rice-Totten Stadium
+Prairie View A&M,Prairie View,TX,SWAC,Panther Stadium
+Southern University,Baton Rouge,LA,SWAC,A.W. Mumford Stadium
+Texas Southern,Houston,TX,SWAC,Health Careers Field
+Abilene Christian,Abilene,TX,UAC,Wildcat Stadium
+Austin Peay,Clarksville,TN,UAC,Fortera Stadium
+Central Arkansas,Conway,AR,UAC,Estes Stadium
+Eastern Kentucky,Richmond,KY,UAC,Roy Kidd Stadium
+Southern Utah,Cedar City,UT,UAC,Eccles Coliseum
+Tarleton State,Stephenville,TX,UAC,Memorial Stadium
+Utah Tech,St. George,UT,UAC,Greater Zion Stadium
+West Georgia,Carrollton,GA,UAC,University Stadium
