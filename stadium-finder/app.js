@@ -121,7 +121,7 @@
     sort: 'time', desc: false,
     hideVisited: false, group: false,
     view: 'list',
-    theme: '',              // '', 'light' or 'dark'
+    theme: 'light',              // '', 'light' or 'dark'
     selected: null,         // radar selection
     pick: null,             // "pick one for me" result
   };
